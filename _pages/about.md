@@ -41,3 +41,17 @@ Recent News
 
 - Our paper [Fairness for Robust Learning to Rank](https://doi.org/10.1007/978-3-031-33374-3_43) is accepted at PAKDD 2023.
 
+- I successfully passed my PhD Preliminary Exam.
+
+- Our paper [Robust fairness under covariate shift](https://ojs.aaai.org/index.php/AAAI/article/download/17135/16942) is accepted at AAAI 2021.
+
+- I'm joining LinkedIn as a Machine Learning Research Inern.
+
+- Our paper [Fairness for robust log loss classification](https://ojs.aaai.org/index.php/AAAI/article/download/6002/5858) is accepted at AAAI 2020.
+
+- I successfully passed my PhD Qualifier Exam. 
+
+- I'm joining Moningstar, Inc. as a Data Science Inern.
+
+- I join UIC as a Computer Science PhD student.
+
