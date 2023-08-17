@@ -27,8 +27,11 @@ Recent News
 
 I served as a reviewer for NeurIPS 2023.
 I'm in Hawaii to attend the ICML conference and present our work [Superhuman Fairness](https://proceedings.mlr.press/v202/memarrast23a/memarrast23a.pdf).
+
 I'm in Osaka, Japan to attend the PAKDD conference and present our work Fairness for [Robust Learning to Rank](https://doi.org/10.1007/978-3-031-33374-3_43).
+
 I successfully defended my Ph.D. dissertation [\[Link\]](../files/Memarrast_Omid_PhD_Dissertation.pdf)
+
 
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
