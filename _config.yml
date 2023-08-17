@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Omid Memarrast"
-  avatar           : "profile.png"
+  avatar           : "Omid-Passport-photo.jpg" #"profile.png"
   bio              : "PhD in Computer Science"
   location         : "Chicago, US"
   employer         :
