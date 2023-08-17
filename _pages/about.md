@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 I graduated with a Ph.D. in Computer Science from the University of Illinois Chicago. My research focus was primarily on developing Fair Machine Learning and Responsible AI algorithms. I was very fortunate to have Prof. Brian Ziebart as my advisor.
 
 My research interests lie primarily in the area of Machine Learning. I am experienced in and passionate about:
