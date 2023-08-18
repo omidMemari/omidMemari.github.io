@@ -41,9 +41,13 @@ Recent News
 
 - I served as a reviewer for ICML 2022.
 
+- I served as a reviewer for IJCAI 2022.
+
 - Our workshop paper [Fairness for Robust Learning to Rank](https://arxiv.org/abs/2112.06288) is accepted at [NeurIPS 2021 Workshop on Algorithmic Fairness through the Lens of Causality and Robustness](https://www.afciworkshop.org/afcr2021/accepted-papers).
 
 - Our paper [ParsiNLU: A Suite of Language Understanding Challenges for Persian](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00419/107835) is accepted at Transactions of the Association for Computational Linguistics.
+
+- I served as a reviewer for IJCAI 2021.
 
 - Our conference paper [Robust fairness under covariate shift](https://ojs.aaai.org/index.php/AAAI/article/download/17135/16942) is accepted at AAAI 2021.
 
