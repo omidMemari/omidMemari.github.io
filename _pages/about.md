@@ -8,18 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+Hi!
 
-I graduated with a Ph.D. in Computer Science from the University of Illinois Chicago. My research focus was primarily on developing Fair Machine Learning and Responsible AI algorithms. I was very fortunate to have Prof. Brian Ziebart as my advisor.
+My name is Omid Memarrast. I graduated with a Ph.D. in Computer Science from the University of Illinois Chicago. My research focus was primarily on developing Fair and Robust Machine Learning and Responsible AI algorithms. I was very fortunate to have Prof. Brian Ziebart as my advisor.
 
-My research interests lie primarily in the area of Machine Learning:
+Recently, I've got a keen interest in Generative AI models and how to make them more responsible and fair.
 
-- Fair Machine Learning
-
-- Responsible AI
-
-- Deep Learning 
-
-- Natural Language Processing 
 
 My resume is available [here](../files/Resume_Omid_July23.pdf) (updated on Aug/2023)
 
@@ -53,5 +47,5 @@ Recent News
 
 - I'm joining Moningstar, Inc. as a Data Science Inern.
 
-- I join UIC as a Computer Science PhD student.
+- I joined UIC as a Computer Science PhD student.
 
