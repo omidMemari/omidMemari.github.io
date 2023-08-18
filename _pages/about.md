@@ -15,7 +15,7 @@ My name is Omid Memarrast. I graduated with a Ph.D. in Computer Science from the
 Recently, I've got a keen interest in Generative AI models and how to make them more responsible and fair.
 
 
-My resume is available [here](../files/Resume_Omid_July23.pdf) (updated on Aug/2023)
+My resume is available [here](../files/Resume_Omid_July23.pdf) (updated on Aug 2023)
 
 
 Recent News
@@ -43,7 +43,7 @@ Recent News
 
 - Invited to serve as a program committee (PC) member for the IJCAI 2022.
 
-- Our workshop paper [Fairness for Robust Learning to Rank](https://arxiv.org/abs/2112.06288) is accepted at [NeurIPS 2021 Workshop on Algorithmic Fairness through the Lens of Causality and Robustness](https://www.afciworkshop.org/afcr2021/accepted-papers).
+- Our workshop paper [Fairness for Robust Learning to Rank](https://arxiv.org/abs/2112.06288) is accepted at NeurIPS 2021 Workshop on [Algorithmic Fairness through the Lens of Causality and Robustness](https://www.afciworkshop.org/afcr2021/accepted-papers).
 
 - Our paper [ParsiNLU: A Suite of Language Understanding Challenges for Persian](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00419/107835) is accepted at Transactions of the Association for Computational Linguistics.
 
