@@ -35,17 +35,25 @@ Recent News
 
 - Our paper [Fairness for Robust Learning to Rank](https://doi.org/10.1007/978-3-031-33374-3_43) is accepted at PAKDD 2023.
 
+- I served as a reviewer for NeurIPS 2022.
+
 - I successfully passed my PhD Preliminary Exam.
 
-- Our paper [Robust fairness under covariate shift](https://ojs.aaai.org/index.php/AAAI/article/download/17135/16942) is accepted at AAAI 2021.
+- I served as a reviewer for ICML 2022.
+
+- Our workshop paper [Fairness for Robust Learning to Rank](https://arxiv.org/abs/2112.06288) is accepted at [NeurIPS 2021 Workshop on Algorithmic Fairness through the Lens of Causality and Robustness](https://www.afciworkshop.org/afcr2021/accepted-papers)
+
+- Our paper [ParsiNLU: A Suite of Language Understanding Challenges for Persian](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00419/107835) is accepted at Transactions of the Association for Computational Linguistics.
+
+- Our conference paper [Robust fairness under covariate shift](https://ojs.aaai.org/index.php/AAAI/article/download/17135/16942) is accepted at AAAI 2021.
 
 - I'm joining LinkedIn as a Machine Learning Research Inern.
 
-- Our paper [Fairness for robust log loss classification](https://ojs.aaai.org/index.php/AAAI/article/download/6002/5858) is accepted at AAAI 2020.
+- Our conference paper [Fairness for robust log loss classification](https://ojs.aaai.org/index.php/AAAI/article/download/6002/5858) is accepted at AAAI 2020.
 
 - I successfully passed my PhD Qualifier Exam. 
 
 - I'm joining Moningstar, Inc. as a Data Science Inern.
 
-- I joined UIC as a Computer Science PhD student.
+- I joined UIC as a Computer Science PhD student. 
 
