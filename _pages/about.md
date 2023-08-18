@@ -59,5 +59,5 @@ Recent News
 
 - I'm joining Moningstar, Inc. as a Data Science Inern.
 
-- I joined UIC as a Computer Science PhD student. 
+- I recieved the Graduate Student Award Scholarship from Computer Science Department at UIC. 
 
