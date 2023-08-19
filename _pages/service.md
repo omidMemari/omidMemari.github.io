@@ -17,26 +17,16 @@ author_profile: true
 {% endfor %}
 
 -->
-- Reviewer, NeurIPS 2021, NeurIPS 2022, NeurIPS 2023.
+- Reviewer, **NeurIPS 2021**, **NeurIPS 2022**, **NeurIPS 2023**.
 
-- Reviewer, ICML 2022.
+- Reviewer, **ICML 2022**.
 
-- Program Committee, IJCAI 2021, IJCAI 2022.
+- Program Committee, **IJCAI 2021**, **IJCAI 2022**.
 
-- Program Committee for the Student Research Workshop (SRW), ACL 2019, ACL 2020, EACL 2021 and NAACL 2021.
+- Program Committee for the Student Research Workshop (SRW), **ACL 2019**, **ACL 2020**, **EACL 2021** and **NAACL 2021**.
 
-- Volunteer at AAAI 2020
+- Volunteer at **AAAI 2020**.
 
 
-- Invited to serve as a reviewer for the NeurIPS 2023.
 
-- Invited to serve as a reviewer for the NeurIPS 2022.
-
-- Invited to serve as a reviewer for the ICML 2022.
-
-- Invited to serve as a program committee (PC) member for the IJCAI 2022.
-
-- Invited to serve as a program committee (PC) member for the IJCAI 2021.
-
-- I am volunteering for AAAI 2020 conference.
 
