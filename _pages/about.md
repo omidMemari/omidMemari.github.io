@@ -53,11 +53,13 @@ Recent News
 
 - I'm joining LinkedIn as a Machine Learning Research Inern.
 
+- I am volunteering for AAAI 2020 conference.
+
 - Our conference paper [Fairness for robust log loss classification](https://ojs.aaai.org/index.php/AAAI/article/download/6002/5858) is accepted at AAAI 2020.
 
 - I successfully passed my PhD Qualifier Exam. 
 
 - I'm joining Moningstar, Inc. as a Data Science Inern.
 
-- I recieved the Graduate Student Award Scholarship from Computer Science Department at UIC. 
+- I received the Graduate Student Award Scholarship from the Computer Science Department at UIC.
 
