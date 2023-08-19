@@ -17,8 +17,6 @@ author_profile: true
 {% endfor %}
 
 -->
-Conference and Journal Papers
-======
 
 **Superhuman Fairness** [\[Paper\]](https://proceedings.mlr.press/v202/memarrast23a/memarrast23a.pdf)[\[Poster\]](../files/ICML2023-Superhuman-poster.pdf)<br>
 Omid Memarrast, Linh Vu, Brian D. Ziebart.
