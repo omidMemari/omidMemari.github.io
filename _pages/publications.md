@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -15,10 +16,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+-->
 
 
-
-**Superhuman Fairness**
+**Superhuman Fairness** [\[Paper\]](https://proceedings.mlr.press/v202/memarrast23a/memarrast23a.pdf)[\[Poster\]](../files/ICML2023-Superhuman-poster.pdf)
 
 Omid Memarrast, Linh Vu, Brian D. Ziebart.
 
