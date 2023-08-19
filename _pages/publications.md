@@ -14,3 +14,10 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+
+
+**Superhuman Fairness**
+Omid Memarrast, Linh Vu, Brian D. Ziebart
+In International Conference on Machine Learning, pp. 24420-24435. PMLR, 2023.
