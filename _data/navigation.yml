@@ -3,6 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Work"
+    url: /work/
 
   - title: "Teaching"
     url: /teaching/    
@@ -10,8 +12,7 @@ main:
   - title: "Service"
     url: /service/
         
-  - title: "Work"
-    url: /work/
+  
 
   #- title: "Projects"
   #  url: /projects/
