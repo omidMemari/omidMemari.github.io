@@ -42,18 +42,18 @@ In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 0
 Workshop Papers
 ======
 
-**Superhuman Fairness** [\[Paper\]](https://openreview.net/pdf?id=qT-uoQ0frNe)<br>
+**Superhuman Fairness** \[[Paper](https://openreview.net/pdf?id=qT-uoQ0frNe)\]<br>
 Omid Memarrast, Linh Vu, Brian D. Ziebart.
 In ICLR 2023 Workshop on Pitfalls of limited data and computation for Trustworthy ML. 2023.
 
-**Fairness for Robust Learning to Rank** [\[Paper\]](https://arxiv.org/pdf/2112.06288.pdf)[\[Poster\]](../files/FairLTR-poster.pdf)<br>
+**Fairness for Robust Learning to Rank** \[[Paper](https://arxiv.org/pdf/2112.06288.pdf)\]\[[Poster](../files/FairLTR-poster.pdf)\]<br>
 Omid Memarrast, Ashkan Rezaei, Rizal Fathony, Brian D. Ziebart.
 In NeurIPS Workshop on Algorithmic Fairness through the Lens of Causality and Robustness, 2021.
 
-**Robust Fairness Under Covariate Shift** [\[Paper\]](../files/FairCovariteShift-AAAI2021.pdf)[\[Poster\]](../files/FairCovariateShift-Poster.pdf)<br>
+**Robust Fairness Under Covariate Shift** \[[Paper](../files/FairCovariteShift-AAAI2021.pdf)\]\[[Poster](../files/FairCovariateShift-Poster.pdf)\]<br>
 Ashkan Rezaei, Anqi Liu, Omid Memarrast, Brian D. Ziebart.
 In NeurIPS Workshop on Algorithmic Fairness through the Lens of Causality and Interpretability, 2020.
 
-**Fairness for Robust Log Loss Classification** [\[Paper\]](../files/FairCovariteShift-AAAI2021.pdf)[\[Poster\]](../files/FairLogLoss-Poster.pdf)<br>
+**Fairness for Robust Log Loss Classification** \[[Paper](../files/FairCovariteShift-AAAI2021.pdf)\]\[[Poster](../files/FairLogLoss-Poster.pdf)\]<br>
 Ashkan Rezaei, Rizal Fathony, Omid Memarrast, Brian D. Ziebart.
 In NeurIPS Workshop on Machine Learning with Guarantees, 2019.
