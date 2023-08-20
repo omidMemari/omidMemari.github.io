@@ -23,7 +23,8 @@ author_profile: true
 
 - Program Committee, **IJCAI 2021**, **IJCAI 2022**.
 
-- Program Committee for the Student Research Workshop (SRW), **ACL 2019**, **ACL 2020**, **EACL 2021** and **NAACL 2021**.
+- Program Committee for the Student Research Workshop (SRW)<br>
+**ACL 2019**, **ACL 2020**, **EACL 2021** and **NAACL 2021**.
 
 - Volunteer at **AAAI 2020**.
 
