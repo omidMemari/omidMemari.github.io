@@ -10,7 +10,7 @@ author_profile: true
 Fall 2023
 
 ## Student Supervision
-- Linh Vu, Undergraduate, University of Illinois Chicago, Summer and Fall  2022<br>
+- [**Linh Vu**](https://www.linkedin.com/in/lvu5), Undergraduate, University of Illinois Chicago, Summer and Fall  2022<br>
 Our collaboration led to publication of Superhuman Fairness paper at ICML 2023. 
 
 
