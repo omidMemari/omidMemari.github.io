@@ -22,19 +22,19 @@ author_profile: true
 Omid Memarrast, Linh Vu, Brian D. Ziebart.
 In International Conference on Machine Learning, pp. 24420-24435. PMLR, 2023.
 
-**Fairness for Robust Learning to Rank** [\[Paper\]](../files/Fair_Ranking_PAKDD.pdf)[\[Poster\]](../files/FairLTR-poster.pdf)<br>
+**Fairness for Robust Learning to Rank** \[[Paper](../files/Fair_Ranking_PAKDD.pdf)\]\[[Poster](../files/FairLTR-poster.pdf)\]<br>
 Omid Memarrast, Ashkan Rezaei, Rizal Fathony, Brian D. Ziebart.
 In Pacific-Asia Conference on Knowledge Discovery and Data Mining, pp. 544-556. Cham: Springer Nature Switzerland, 2023.
 
-**ParsiNLU: A Suite of Language Understanding Challenges for Persian** [\[Paper\]](../files/ParsiNLU-TACL.pdf)<br>
+**ParsiNLU: A Suite of Language Understanding Challenges for Persian** \[[Paper](../files/ParsiNLU-TACL.pdf)\]<br>
 Daniel Khashabi, Arman Cohan, Siamak Shakeri, Pedram Hosseini, Pouya Pezeshkpour, Malihe Alikhani, Moin Aminnaseri, Marzieh Bitaab, Faeze Brahman, Sarik Ghazarian, Mozhdeh Gheini, Arman Kabiri, Rabeeh Karimi Mahabagdi, Omid Memarrast, Ahmadreza Mosallanezhad, Erfan Noury, Shahab Raji, Mohammad Sadegh Rasooli, Sepideh Sadeghi, Erfan Sadeqi Azer, Niloofar Safi Samghabadi, Mahsa Shafaei, Saber Sheybani, Ali Tazarv, Yadollah Yaghoobzadeh.
 Transactions of the Association for Computational Linguistics 9 (2021): 1147-1162.
 
-**Robust Fairness Under Covariate Shift** [\[Paper\]](../files/FairCovariteShift-AAAI2021.pdf)[\[Poster\]](../files/FairCovariateShift-Poster.pdf)<br>
+**Robust Fairness Under Covariate Shift** \[[Paper](../files/FairCovariteShift-AAAI2021.pdf)\]\[[Poster](../files/FairCovariateShift-Poster.pdf)\]<br>
 Ashkan Rezaei, Anqi Liu, Omid Memarrast, Brian D. Ziebart.
 In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 11, pp. 9419-9427. 2021.
 
-**Fairness for Robust Log Loss Classification** [\[Paper\]](../files/FairLogLoss-AAAI2020.pdf)[\[Poster\]](../files/FairLogLoss-Poster.pdf)<br>
+**Fairness for Robust Log Loss Classification** \[[Paper](../files/FairLogLoss-AAAI2020.pdf)\]\[[Poster](../files/FairLogLoss-Poster.pdf)\]<br>
 Ashkan Rezaei, Rizal Fathony, Omid Memarrast, Brian D. Ziebart.
 In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 34, no. 04, pp. 5511-5518. 2020.
 
