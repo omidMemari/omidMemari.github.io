@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Main Instructor
-- Database Systems (IDS410), Information and Decision Science Department, University of Illinois Chicago<br>
+- **Database Systems** (IDS410), Information and Decision Science Department, University of Illinois Chicago<br>
 Fall 2023
 
 ## Student Supervision
