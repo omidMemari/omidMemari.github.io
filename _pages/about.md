@@ -51,7 +51,7 @@ Recent News
 
 - Our conference paper [Robust fairness under covariate shift](https://ojs.aaai.org/index.php/AAAI/article/download/17135/16942) is accepted at AAAI 2021.
 
-- I'm joining LinkedIn as a Machine Learning Research Inern.
+- I'm joining **LinkedIn** as a Machine Learning Research Inern.
 
 - I am volunteering for AAAI 2020 conference.
 
@@ -59,7 +59,7 @@ Recent News
 
 - I successfully passed my PhD Qualifier Exam. 
 
-- I'm joining Moningstar, Inc. as a Data Science Inern.
+- I'm joining **Moningstar, Inc.** as a Data Science Inern.
 
 - I received the Graduate Student Award Scholarship from the Computer Science Department at UIC.
 
