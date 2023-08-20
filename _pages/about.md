@@ -10,7 +10,7 @@ redirect_from:
 
 Hi!
 
-My name is Omid Memarrast. I graduated with a Ph.D. in Computer Science from the University of Illinois Chicago. My research focus was primarily on developing Fair and Robust Machine Learning and Responsible AI algorithms. I was very fortunate to have Prof. [Brian Ziebart](https://scholar.google.com/citations?user=_JjIgGcAAAAJ&hl=en) as my advisor.
+My name is Omid Memarrast. I graduated with a Ph.D. in Computer Science from the University of Illinois Chicago. My research focus was primarily on developing Fair and Robust Machine Learning and Responsible AI algorithms. I was very fortunate to have Prof. [Brian Ziebart](https://scholar.google.com/citations?user=_JjIgGcAAAAJ&hl=en) as my advisor. I received my BS in Software Engineering from the University of Tehran, Tehran, Iran.
 
 Recently, I've got a keen interest in Generative AI models and how to make them more responsible and fair.
 
