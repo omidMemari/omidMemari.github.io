@@ -6,21 +6,23 @@ author_profile: true
 ---
 
 ## Main Instructor
-IDS 410 Database Systems, Information and Decision Science Department, University of Illinois Chicago, Fall 2023
+- Database Systems (IDS410), Information and Decision Science Department, University of Illinois Chicago, Fall 2023<br>
 
 ## Student Supervision
-Linh Vu, Undergraduate, University of Illinois Chicago, Summer and Fall  2022
+- Linh Vu, Undergraduate, University of Illinois Chicago, Summer and Fall  2022<br>
 Our collaboration led to publication of Superhuman Fairness paper at ICML 2023. 
 
 
-## Graduate Teaching Assistant
-Software Design (CS342), University of Illinois at Chicago, Spring 2018
-Software Design (CS342), University of Illinois at Chicago, Fall 2017
+## Teaching Assistant
+- Programming Practicum (CS211), Computer Science Department, University of Illinois Chicago<br>
+Spring 2017, Fall 2017, Spring 2018, Fall 2018, Spring 2019, Summer 2022
+teaching C/C++/Java concepts
 
+- Computer Algorithms (CS401), Computer Science Department, University of Illinois Chicago<br>
+Fall 2022
 
-## Undergraduate Teaching Assistant
-Software Engineering 1, Amirkabir University of Technology, Fall 2015
-Advanced Programming, Amirkabir University of Technology, Spring 2015
-Computer Architecture, Amirkabir University of Technology, Spring 2015
-Advanced Programming, Amirkabir University of Technology, Fall 2014
-Fundamentals of Management, Amirkabir University of Technology, Fall 2014
+- Advanced Machine Learning (CS512), Computer Science Department, University of Illinois Chicago<br>
+Spring 2022
+
+- Advanced Algorithm Design, ECE Department, University of Tehran, Iran, Fall 2014<br>
+- Database Systems, ECE Department, University of Tehran, Iran, Fall 2013<br>
