@@ -21,6 +21,8 @@ My resume is available [here](../files/Resume_Omid_July23.pdf) (updated on Aug 2
 Recent News
 ======
 
+- I am actively seeking job opportunities! Please don't hesitate to contact me if you have any relevant openings.
+
 - I'm in Hawaii to attend the ICML conference and present our work [Superhuman Fairness](https://proceedings.mlr.press/v202/memarrast23a/memarrast23a.pdf).
 
 - I'm in Osaka, Japan to attend the PAKDD conference and present our work [Fairness for Robust Learning to Rank](https://doi.org/10.1007/978-3-031-33374-3_43).
