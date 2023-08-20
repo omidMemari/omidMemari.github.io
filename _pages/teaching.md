@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Main Instructor
+## Primary Instructor
 - **Database Systems** (IDS410), Information and Decision Science Department, University of Illinois Chicago<br>
 Fall 2023
 
