@@ -7,7 +7,11 @@ author_profile: true
 
 ## Primary Instructor
 - **Database Systems** (IDS410), Information and Decision Science Department, University of Illinois Chicago<br>
-Fall 2023
+Fall 2023<br>
+In addition to teaching ER-Models and SQL, I help my students to get certificates in two valuable courses:<br>
+- AWS Academy Cloud Foundation
+- AWS Academy Data Engineering 
+
 
 ## Student Supervision
 - [**Linh Vu**](https://www.linkedin.com/in/lvu5), Undergraduate, University of Illinois Chicago, Summer and Fall  2022<br>
