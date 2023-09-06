@@ -9,8 +9,8 @@ author_profile: true
 - **Database Systems** (IDS410), Information and Decision Science Department, University of Illinois Chicago<br>
 Fall 2023<br>
 In addition to teaching ER-Models and SQL, I help my students to get certificates in two valuable courses:<br>
--- AWS Academy Cloud Foundation
--- AWS Academy Data Engineering 
+AWS Academy Cloud Foundation<br>
+AWS Academy Data Engineering 
 
 
 ## Student Supervision
