@@ -29,7 +29,7 @@ Recent News
 
 - I'm in Osaka, Japan to attend the PAKDD conference and present our work [Fairness for Robust Learning to Rank](https://doi.org/10.1007/978-3-031-33374-3_43).
 
-- I successfully defended my Ph.D. dissertation \[[Link](../files/Memarrast_Omid_PhD_Dissertation.pdf)\]
+- I successfully defended my Ph.D. dissertation \[[Link](https://indigo.uic.edu/articles/thesis/Distributionally-Robust_and_Specification-Robust_Fairness_for_Machine_Learning/24241495)\]
 
 - Invited to serve as a reviewer for the NeurIPS 2023.
 
