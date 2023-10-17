@@ -15,7 +15,7 @@ My name is Omid Memarrast. I graduated with a Ph.D. in Computer Science from the
 Recently, I've got a keen interest in Generative AI models and how to make them more responsible and fair.
 
 
-My resume is available [here](../files/Resume_Memarrast.pdf) (updated on Aug 2023)
+My resume is available [here](../files/CV_Memarrast.pdf) (updated on Aug 2023)
 
 
 Recent News
