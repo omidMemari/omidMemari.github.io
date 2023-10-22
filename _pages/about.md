@@ -16,6 +16,7 @@ Recently, I've got a keen interest in Generative AI models and how to make them 
 
 
 My resume is available [here](../files/Resume_Memarrast.pdf)
+
 Recent News
 ======
 
